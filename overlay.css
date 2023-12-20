@@ -1,0 +1,24 @@
+.top{
+    background-color: blueviolet;
+    width: 330px;
+    height: 200px;
+   text-align: center;
+   margin-left: 10px;
+}
+
+
+.container{
+    background-image: url(./kuala-lumpur-1820944_1280.jpg);
+   content: box;
+   height: 500px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+.text1{
+    margin-left: 90%;
+    color: yellow;
+    font-size: 40px;
+    
+}
